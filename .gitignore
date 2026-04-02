@@ -1,5 +1,6 @@
 # Credentials
 credentials.txt
+esp32/credentials.h
 
 # Python
 __pycache__/
