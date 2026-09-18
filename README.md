@@ -4,11 +4,21 @@ This project is a simple seismograph built using:
 - ESP32
 - MPU6050 accelerometer
 
+<p align="center">
+  <img src="./images/up.jpeg" width="45%">
+  <img src="./images/down.jpeg" width="45%">
+</p>
+
+---
+
 Features:
 - Motion detection
 - MQTT data transmission
 - Telegram bot alerts
 
 Architecture:
-ESP32 → MQTT Broker → Python Client → Telegram Bot
+
+<p align="center">
+  <img src="./images/architecture.jpeg" width="75%">
+</p>
 
