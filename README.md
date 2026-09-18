@@ -19,6 +19,6 @@ Features:
 Architecture:
 
 <p align="center">
-  <img src="./images/architecture.jpeg" width="75%">
+  <img src="./images/architecture.png" width="75%">
 </p>
 
